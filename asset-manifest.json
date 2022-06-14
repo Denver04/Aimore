@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aimore/static/css/main.4b49045c.css",
+    "main.js": "/Aimore/static/js/main.226177be.js",
+    "static/media/gfr.jpg": "/Aimore/static/media/gfr.9afc9dd8b8e98edf992c.jpg",
+    "static/media/tyu2.jpg": "/Aimore/static/media/tyu2.8217bfed6f3222333ee5.jpg",
+    "static/media/p12.jpg": "/Aimore/static/media/p12.874c87c5045ec5ffc993.jpg",
+    "static/media/p1.jpg": "/Aimore/static/media/p1.67a19499366c10f1b8bd.jpg",
+    "index.html": "/Aimore/index.html",
+    "main.4b49045c.css.map": "/Aimore/static/css/main.4b49045c.css.map",
+    "main.226177be.js.map": "/Aimore/static/js/main.226177be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b49045c.css",
+    "static/js/main.226177be.js"
+  ]
+}
